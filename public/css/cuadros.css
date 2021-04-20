@@ -1,0 +1,169 @@
+
+
+.square {
+  pointer-events: none;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  background-color: cornflowerblue;
+  margin: 4px;
+  display: inline-block;
+}
+
+.blue {
+ 
+}
+.botonvertir{
+  background-color: transparent;
+   border:0; 
+  margin:0px;
+}
+.filtro {
+  background: transparent;
+}
+.vertircafe {
+  background: transparent;
+}
+.vertiragua {
+  background: transparent;
+}
+
+.Npo {
+  background: transparent;
+}
+.vaso {
+  background: transparent;
+}
+.sosa {
+  background: transparent;
+}
+.gotero {
+  background: transparent;
+}
+.matraz {
+  background: transparent;
+}
+.alcalino1 {
+  background: transparent;
+}
+
+.alcalino2 {
+  background: transparent;
+}
+.neutro {
+  background: transparent;
+}
+.acido1 {
+  background: transparent;
+}
+.acido2 {
+  background: transparent;
+}
+.cuchara{
+  background: transparent;
+}
+.fuegohidden{
+  visibility: hidden;
+}
+.matrazhidden{
+  visibility: hidden;
+}
+
+.modal {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 10040;
+  overflow: auto;
+  overflow-y: auto;
+}
+
+.scan-headline {
+  color: cornflowerblue;
+}
+
+.infected-headline {
+  color: red;
+}
+
+img.practicas {
+ width: 100%;
+ height: 100%;
+}
+
+img.practicas6 {
+ width: 150%;
+ height: 150%;
+}
+img.gotero{
+ width: 100%;
+ height: 100%; 
+}
+img.gotero0{
+ width: 100%;
+ height: 100%; 
+}
+img.gotero1{
+ width: 100%;
+ height: 100%; 
+}
+img.gotero2{
+ width: 100%;
+ height: 100%; 
+}
+img.gotero3{
+ width: 100%;
+ height: 100%; 
+}
+
+div.divmain{
+ width: 100%;
+ height: 100%; 
+}
+
+.barra{
+width:10px;
+height:100%;  
+color:red;
+}
+
+img.fuego{
+width: 20%;
+height:20%;  
+}
+
+.cerillo {
+  background: transparent;
+  position: relative;
+}
+.cerillointerno{
+ position: absolute; 
+}
+.fuegointerno{
+  position: absolute;
+ top: 230px; left: 110px;
+}
+
+div.pasos{
+position:absolute;
+height:auto;
+width:100%;
+visibility:hidden;
+}
+
+div.ensayo0{
+display:inline-block;
+float:end;
+}
+div.ensayo1{
+display:inline-block;
+float:end;
+}
+div.ensayo2{
+display:inline-block;
+float:end;
+}
+div.ensayo3{
+display:inline-block;
+float:end;
+}
